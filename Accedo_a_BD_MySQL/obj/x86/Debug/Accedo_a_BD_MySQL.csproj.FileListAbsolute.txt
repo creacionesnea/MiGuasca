@@ -1,0 +1,14 @@
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\bin\Debug\Accedo_a_BD_MySQL.exe
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\bin\Debug\Accedo_a_BD_MySQL.pdb
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\Accedo_a_BD_MySQL.frmPrueba.resources
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\Accedo_a_BD_MySQL.Properties.Resources.resources
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\Accedo_a_BD_MySQL.exe
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\Accedo_a_BD_MySQL.pdb
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\bin\Debug\mysql.data.dll
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\Accedo_a_BD_MySQL.frmPruebaClases.resources
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\gabrielus\documents\visual studio 2010\Projects\Accedo_a_BD_MySQL\Accedo_a_BD_MySQL\bin\Debug\Accedo_a_BD_MySQL.exe.config
